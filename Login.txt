@@ -1,0 +1,5 @@
+email : admin@gmail.com
+pass	: admin
+
+email	: syamdaruna@gmail.com
+pass	: Pasundan3
